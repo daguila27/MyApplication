@@ -26,12 +26,12 @@ public class Foto {
     }
 
     public static Foto ITEMS[] = {
-            new Foto(R.drawable.Chrysanthemum, "Chrysanthemun"),
-            new Foto(R.drawable.Desert, "Desert"),
-            new Foto(R.drawable.Hydrangeas, "Hydrangeas"),
-            new Foto(R.drawable.Jellyfish, "Jellyfish"),
-            new Foto(R.drawable.Koala, "Koala"),
-            new Foto(R.drawable.Penguins, "Penguins")
+            new Foto(R.drawable.crisantemo, "Chrysanthemun"),
+            new Foto(R.drawable.desierto, "Desert"),
+            new Foto(R.drawable.hortensias, "Hydrangeas"),
+            new Foto(R.drawable.medusa, "Jellyfish"),
+            new Foto(R.drawable.pinguinos, "Penguins"),
+            new Foto(R.drawable.faro, "Faro")
     };
     /**
      * Obtiene item basado en su identificador
